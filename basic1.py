@@ -44,5 +44,5 @@ bikes.remove('bike2')
 print(bikes) #bikes = ['bike1', 'bike3']
 
 # pop
-bikes.pop(1)
+bikes.pop()
 print(bikes) #bikes = ['bike1']
